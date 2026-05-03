@@ -3,7 +3,7 @@ Self-reorganizing mechanism arising from recursive axiom collapse within multi-l
 
 For intelligence to be artificial, it must take this form
 
-
+Keywords: FEP, Automata, Self-reorganizing, Antifragile(neuroplasticity), Evolution
 
 
 
