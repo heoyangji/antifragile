@@ -1,3 +1,5 @@
 # antifragile
-
-Recursive axiom collapse in FEP-based multi-layer automata as a self-reorganizing mechanism for adaptive intelligence
+Artificial Intelligence
+Intelligence
+is
+a self-reorganizing mechanism arising from recursive axiom collapse within multi-layer inference automata grounded in the FEP.
