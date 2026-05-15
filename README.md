@@ -1,6 +1,6 @@
 # antifragile
 
-Self-reorganizing mechanisms via recursive axiom collapse in FEP-based automata
+Self-reorganization mechanisms via recursive axiom collapse in FEP-based automata
 
 Keywords: FEP, Automata, Self-reorganizing, Antifragile(neuroplasticity), Evolution
 
